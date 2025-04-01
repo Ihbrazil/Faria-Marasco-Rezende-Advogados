@@ -1998,6 +1998,17 @@ textarea.form-control {
   margin-bottom: 1rem;
 }
 
+.contato-grupo {
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.contato-grupo a {
+  text-decoration: none;
+  color: #e7c357;
+  font-weight: bold;
+}
+
 .form-text {
   display: block;
   margin-top: 0.25rem;
